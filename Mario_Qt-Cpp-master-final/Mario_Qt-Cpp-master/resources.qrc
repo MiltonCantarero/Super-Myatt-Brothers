@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/map16x16.png</file>
+        <file>res/mario_items_18x18.png</file>
+        <file>res/enemies_18x18.png</file>
+        <file>res/blocks16x16.png</file>
+        <file>res/coin16x16.png</file>
+        <file>res/sketch_world1-1.png</file>
+        <file>res/sketch_test.png</file>
+        <file>res/test3.png</file>
+        <file>res/Myatt.png</file>
+        <file>res/font/04B_19.ttf</file>
+    </qresource>
+</RCC>
